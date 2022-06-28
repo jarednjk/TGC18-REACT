@@ -6,7 +6,7 @@ export default class ContactForm extends React.Component {
         firstName: "",
         lastName: "",
         enquiry: "",
-        country: "Singapore",
+        country: "singapore",
         contactBy: []
     }
 
